@@ -1,4 +1,4 @@
-Here's a README file for your JavaScript bank account application:
+
 
 ---
 
